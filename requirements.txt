@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+urllib3
+matplotlib
+seaborn
+networkx
+numpy
+selenium
+webdriver-manager
+plotly
